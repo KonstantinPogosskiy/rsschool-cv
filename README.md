@@ -1,1 +1,1 @@
-https://konstantinpogosskiy.github.io/My-CV/
+https://konstantinpogosskiy.github.io/rsschool-cv/cv/
