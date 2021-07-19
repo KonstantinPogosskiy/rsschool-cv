@@ -11,14 +11,14 @@
 * Russian - Native
 * English – Pre-intermediate (is improving)
 ## H A R D S K I L L S
-> JavaScript (ES6+k
-> HTMLV
-> CSSb
-> React (Hooks, Router, FluZk
-> MaterialWN
-> ReduY
-> Giq
-> Webpaci
-> Bootstra_
-> Photosho_
-> Figma
+- JavaScript (ES6+k
+- HTMLV
+- CSSb
+- React (Hooks, Router, FluZk
+- MaterialWN
+- ReduY
+- Giq
+- Webpaci
+- Bootstra_
+- Photosho_
+- Figma
