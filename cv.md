@@ -11,14 +11,24 @@
 * Russian - Native
 * English – Pre-intermediate (is improving)
 ## H A R D S K I L L S
-- JavaScript (ES6+k
+- JavaScript (ES6+)
 - HTMLV
-- CSSb
-- React (Hooks, Router, FluZk
-- MaterialWN
-- ReduY
-- Giq
-- Webpaci
-- Bootstra_
-- Photosho_
+- CSS3
+- React (Hooks, Router, Flux)
+- MaterialUi
+- Redux
+- Git
+- Webpack
+- Bootstrap
+- Photoshop
 - Figma
+## S O F T S K I L L S
+- Very curious
+- Consistency and plannin
+- Self-study
+- I can search and find information
+- Communicative
+## E X P E R I E N C E
+2020 - 2021
+TeachMeSkills - “Front End developer”(Student)
+
