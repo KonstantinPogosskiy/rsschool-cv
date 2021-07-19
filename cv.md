@@ -1,10 +1,10 @@
 # Pogosskiy Konstantin
 ## C O N T A C T S
-* Belarus/Minsk
-* +375(29)302-40-41
-* <pogosskiykonstantin@gmail.com>
-* <github.com/KonstantinPogosskiy>
-* <https://www.linkedin.com/in/konstantin-pogosskiy/>
+Belarus/Minsk
++375(29)302-40-41
+<pogosskiykonstantin@gmail.com>
+<github.com/KonstantinPogosskiy>
+<https://www.linkedin.com/in/konstantin-pogosskiy/>
 ## L A N G W A G E S
 * Russian - Native
 * English – Pre-intermediate (is improving)
