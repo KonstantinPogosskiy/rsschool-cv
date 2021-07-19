@@ -1,7 +1,7 @@
 # rsschool-cv
 
-#Pogosskiy Konstantin
-##Contacts
+# Pogosskiy Konstantin
+## Contacts
 * Belarus/Minsk
 * +375(29)302-40-41
 * pogosskiykonstantin@gmail.com
