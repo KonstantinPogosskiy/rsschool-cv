@@ -334,3 +334,30 @@ html body {
 ul {
     padding-left: 20px;
 }
+
+footer {
+    display: flex;
+    justify-content: center;
+}
+
+.logo {
+    margin: auto;
+    padding: 0 0 10px 0;
+    height: 50%;
+    width: 50%;
+}
+
+footer {
+    margin: 15px 0 0 0;
+}
+
+footer a {
+    font-size: 35px;
+    text-decoration: none;
+    color: #b3b3b3;
+    padding: 15px;
+}
+
+footer i:hover {
+    color: #fbd784;
+}
